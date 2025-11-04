@@ -44,4 +44,10 @@ li {
   background: linear-gradient(90deg, #8e86b5, #acaeed);
   font-family: "Manrope", sans-serif;
   color: white;
+  border-radius: 50px;
+}
+
+.paragraph-about {
+  border-right: 1px solid #8e86b5;
+  border-bottom: 1px solid #8e86b5;
 }
