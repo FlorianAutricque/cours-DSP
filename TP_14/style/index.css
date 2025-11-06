@@ -41,3 +41,25 @@
   color: #a5b4fc;
   text-align: center;
 }
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  color: white;
+  margin-top: 2rem;
+}
+
+input,
+textarea {
+  padding: 1rem;
+  border-radius: 8px;
+  width: 40%;
+}
+
+.btn-form {
+  padding: 12px;
+  width: 8rem;
+}
